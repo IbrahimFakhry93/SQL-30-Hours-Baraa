@@ -261,7 +261,7 @@
 --*   Documentation → visuals & slides
 --*   Scripts → SQL code used in course
 
---^ Installing SQL Server Express
+--^ Installing SQL Server Express (the server we will connect to)
 --~ Two free editions:
 --*   Developer Edition → full features, complex install
 --*   Express Edition → simpler, faster, enough for learning
@@ -320,6 +320,6 @@
 
 --^ Key Takeaways
 --* Downloaded & organized course materials
---* Installed SQL Server Express + SSMS
+--* Installed SQL Server Express (server running on local pc) + SSMS (client to interact with the DB)
 --* Created DBs via scripts & backups
 --* Explored SSMS interface & queried data
